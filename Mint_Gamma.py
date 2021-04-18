@@ -1,10 +1,10 @@
-import random as rand #import randint
+import random as rand
 import sys
 import os
 import tkinter as tk
 from tkinter import messagebox
 import tkinter.ttk
-#-------------------------------------
+#------------------------------------
 def lvl():
     lvl1 = tk.Tk()
     lvl1.geometry("500x300")
